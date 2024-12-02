@@ -10,9 +10,9 @@ This program determines the net pay of a person. It prompts a user to key in his
 
 
 ## Prerequisites
-Install chrome in your machine
+Have node js installed in your machine
 clone the repository in the ubuntu terminal ```git clone <ssh git link```
-Open the index.htm file in your browser
+run each file in the node ``node grade.js``
 
 ### Author: Edwin Ngigi
 Incase you get stuck or experience some problem contact me through my email edwinngigi313@gmail.com
